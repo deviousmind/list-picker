@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import Roller from "@/components/Roller.vue";
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <Roller/>
   </main>
 </template>
